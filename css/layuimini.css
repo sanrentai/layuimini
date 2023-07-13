@@ -681,7 +681,7 @@
 
 
 /**左侧菜单更多下拉样式*/
-.layuimini-menu-left .layui-nav-more,.layuimini-menu-left-zoom .layui-nav-more {
+/* .layuimini-menu-left .layui-nav-more,.layuimini-menu-left-zoom .layui-nav-more {
     font-family: layui-icon !important;
     font-size: 12px;
     font-style: normal;
@@ -694,19 +694,19 @@
     border: none;
     display: inline-block;
     margin-top: -6px !important;
-}
+} */
 
-.layuimini-menu-left .layui-nav-child .layui-nav-more {
+/* .layuimini-menu-left .layui-nav-child .layui-nav-more {
     margin-top: -6px !important;
-}
+} */
 
-.layuimini-menu-left .layui-nav .layui-nav-mored,.layuimini-menu-left .layui-nav-itemed>a .layui-nav-more{
+/* .layuimini-menu-left .layui-nav .layui-nav-mored,.layuimini-menu-left .layui-nav-itemed>a .layui-nav-more{
     margin-top: -9px!important;
-}
+} */
 
-.layuimini-menu-left-zoom.layui-nav .layui-nav-mored,.layuimini-menu-left-zoom.layui-nav-itemed>a .layui-nav-more{
+/* .layuimini-menu-left-zoom.layui-nav .layui-nav-mored,.layuimini-menu-left-zoom.layui-nav-itemed>a .layui-nav-more{
     margin-top: -9px!important;
-}
+} */
 
 .layuimini-menu-left .layui-nav-more:before,.layuimini-menu-left-zoom .layui-nav-more:before {
     content: "\e61a";
